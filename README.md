@@ -3,3 +3,5 @@
 [<img src="https://web.archive.org/web/20090901195531if_/http://geocities.com/linuxhelppage/LinuxNow.gif" height="32"/>](https://wiki.gentoo.org/wiki/Handbook:AMD64/Full/Installation)
 
 ![](https://count.getloli.com/get/@10ge6?theme=rule34)
+
+swe intern @brexhq
